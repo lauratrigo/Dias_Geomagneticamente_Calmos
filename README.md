@@ -8,6 +8,13 @@ Este projeto processa e visualiza dados de sondagem ionosférica dos 5 dias mais
 - **f0F2**: Frequência crítica da camada F2 (MHz)
 - **hmF2**: Altura do pico da camada F2 (km)
 
+## 🚀 Tecnologias Usadas
+
+- **MATLAB**
+- **Gráficos e Visualização de Dados**
+
+![MATLAB Badge](https://img.shields.io/badge/MATLAB-R2019b-red)
+
 ## 🔍 Características Principais
 
 - Processamento automático de arquivos de dados ionosféricos
